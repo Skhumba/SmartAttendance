@@ -1,0 +1,2 @@
+# SmartAttendance
+This project can be used by institutions to enroll students/trainees/employee on the system and integrate it with a biometric fingerprint sensor and an Arduino board. This system tries to stop students from signing on behalf of one another and defeat the purpose of being in a lecture room. the system will be greatly appriciated by institutions who still believe students or trainees can get the most out of attending lectures than self-studying. The system consists of a ASP.NET Web API 2 and an ASP.NET MVC Core 2 Web Application, both written in C#.
